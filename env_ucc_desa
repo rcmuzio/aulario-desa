@@ -1,0 +1,19 @@
+PUBLIC_BASE_PATH=https://aulario-desa.ucc.edu.ar
+
+DATABASE_HOST=172.16.66.101
+DATABASE_PORT=3306
+DATABASE_USER=aulario
+DATABASE_PASSWORD=coldSolutionTightWith
+# DATABASE_USER=rcm
+# DATABASE_PASSWORD=symptomCanRetainCheap
+
+DATABASE_BD=aulario_desa
+
+SIUC_REDIRECT_URI=http://localhost:5173/login
+SIUC_CLIENT_ID=1ed14cdf-677c-6028-acee-33dcf420cda2
+SIUC_SECRET=5359048e-1177-48da-9a95-35ff6ac3196f
+SIUC_URL=https://accounts-sandbox.ucc.edu.ar/signin/authorize
+SIUC_URL_TOKEN=https://apisiuc-sandbox.ucc.edu.ar/api/token
+SIUC_URL_REFRESH_TOKEN=https://apisiuc-sandbox.ucc.edu.ar/api/token/refresh
+SIUC_URL_USER_DATA=https://apisiuc-sandbox.ucc.edu.ar/api/connects/
+SIUC_URL_LOGOFF=https://apisiuc-sandbox.ucc.edu.ar/api/token/revoke

@@ -1,0 +1,10 @@
+<script>
+    import logo from "$lib/logo";
+</script>
+<div class="w3-display-container" style="height: 300px;">
+    <div class="w3-display-middle">
+        <img src={logo}
+         alt="logo ucc">
+    </div>
+</div>
+
